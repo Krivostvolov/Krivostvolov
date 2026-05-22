@@ -39,6 +39,7 @@ Vous pouvez retrouver ces projets plus bas sur mon profil GitHub, avec des descr
 ### Langages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -100,7 +101,8 @@ Ces jeux m’inspirent dans ma façon de réfléchir à l’atmosphère, au game
 ## 📫 Contact
 
 - Gmail: `gti5660@gmail.com`
-- Discord: `ton_discord_ici`
+- Partage Unistra: `oleksii.dovbysh@etu.unistra.fr`
+- Discord: `krivostvolov`
 
 ---
 <p align="center">
@@ -141,6 +143,7 @@ You can find these projects below on my GitHub profile, with more detailed descr
 ### Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -203,4 +206,5 @@ These games inspire the way I think about atmosphere, gameplay and interactive s
 ## 📫 Contact
 
 - Gmail: `gti5660@gmail.com`
-- Discord: `your_discord_here`
+- Partage Unistra: `oleksii.dovbysh@etu.unistra.fr`
+- Discord: `krivostvolov`
