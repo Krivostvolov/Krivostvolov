@@ -21,6 +21,8 @@ Actuellement, je travaille ou j’ai travaillé sur trois projets principaux :
 - 🚀 **Stargate Project** — projet universitaire en **C# / WinForms / SQLite**, centré sur la gestion de missions, de données et d’interfaces desktop.
 - 🃏 **Inscryption-like Game** — projet universitaire en **Java**, basé sur la programmation orientée objet et la création d’un jeu de cartes simplifié.
 
+Vous pouvez retrouver ces projets plus bas sur mon profil GitHub, avec des descriptions plus détaillées dans leurs dépôts respectifs.
+
 ---
 
 ## 🚀 Ce que j’aime développer
@@ -101,14 +103,27 @@ Ces jeux m’inspirent dans ma façon de réfléchir à l’atmosphère, au game
 - Discord: `ton_discord_ici`
 
 ---
+<p align="center">
+  <a href="#-version-française">🇫🇷 Français</a> |
+  <a href="#-english-version">🇬🇧 English</a>
+</p>
+
 <a id="-english-version"></a>
 # 🇬🇧 English version
 
 Hi, I’m Oleksii 👋
+🎓 Computer science student in France  
+🎮 Future desktop application and game developer  
+🛠️ I enjoy building projects from scratch, understanding their internal logic, and improving them step by step.
 
-I’m a computer science student in France, interested in desktop application development and game development.
+I’m still learning, but I’m mainly interested in desktop application development, game development and interactive project design.
 
-I enjoy building projects from scratch, understanding how their internal logic works, and improving them step by step.
+At the moment, I’m developing and improving several projects:
+- 🎭 **Visual Novel** — a personal project made with **Ren’Py**, where I work on the code, game logic and interactive mechanics.
+- 🚀 **Stargate Project** — a university desktop application project in **C#**, **WinForms** and **SQLite**, focused on mission management and data handling.
+- 🃏 **Inscryption-like Game** — a university project in **Java**, inspired by a card game and based on object-oriented programming.
+
+You can find these projects below on my GitHub profile, with more detailed descriptions in their respective repositories.
 
 ---
 
