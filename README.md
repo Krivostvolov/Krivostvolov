@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="#-version-française">🇫🇷 Français</a> |
+  <a href="#-english-version">🇬🇧 English</a>
+</p>
+
+---
+<a id="-version-française"></a>
+# 🇫🇷 Version française
+
 # Salut, moi c’est Oleksii 👋
 
 🎓 Étudiant en informatique en France  
@@ -5,6 +14,12 @@
 🛠️ J’aime créer des projets à partir de zéro, comprendre leur logique interne, puis les améliorer étape par étape.
 
 Je suis encore en apprentissage, mais je m’intéresse surtout au développement d’applications desktop, au game development et à la conception de projets interactifs.
+
+Actuellement, je travaille ou j’ai travaillé sur trois projets principaux :
+
+- 🎭 **Visual Novel** — projet personnel développé avec **Ren’Py**, où je m’occupe du code, de la logique du jeu et de la structure interactive.
+- 🚀 **Stargate Project** — projet universitaire en **C# / WinForms / SQLite**, centré sur la gestion de missions, de données et d’interfaces desktop.
+- 🃏 **Inscryption-like Game** — projet universitaire en **Java**, basé sur la programmation orientée objet et la création d’un jeu de cartes simplifié.
 
 ---
 
@@ -34,51 +49,6 @@ Je suis encore en apprentissage, mais je m’intéresse surtout au développemen
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
----
-
-## 🎮 Projets principaux
-
-### Visual Novel — projet personnel
-
-Projet personnel développé avec **Ren’Py**.
-
-Je suis responsable de la partie technique : code, logique du jeu, structure des scènes et fonctionnement des mécaniques interactives.  
-Le projet est réalisé avec mon mentor, qui s’occupe principalement de l’histoire, de l’ambiance sonore et de la musique.
-
-**Objectif :** créer une expérience narrative interactive avec une logique propre et évolutive.
-
----
-
-### Stargate Project — application desktop
-
-Projet universitaire en groupe développé en **C#**, avec **WinForms** et **SQLite**.
-
-L’objectif du projet est de créer une application desktop permettant de gérer des missions : tableau de bord, création de missions, membres, objectifs, budget, événements, races, planètes et statistiques.
-
-**Ce que ce projet m’apporte :**
-
-- conception d’interfaces desktop ;
-- manipulation de bases de données SQLite ;
-- gestion de formulaires WinForms ;
-- organisation d’un projet en équipe ;
-- réflexion sur l’ergonomie et la lisibilité du code.
-
----
-
-### Inscryption-like Game — projet Java
-
-Projet universitaire en groupe inspiré du jeu **Inscryption**, développé en **Java** avec **IntelliJ IDEA**.
-
-Le projet consiste à développer une application imitant un jeu de cartes avec plateau, pioche, main du joueur, cartes animaux, attaques, score, adversaire et conditions de victoire.
-
-**Ce que ce projet m’apporte :**
-
-- programmation orientée objet ;
-- architecture de classes ;
-- logique de combat et de plateau ;
-- tests unitaires ;
-- séparation entre logique du jeu et affichage.
 
 ---
 
@@ -131,10 +101,10 @@ Ces jeux m’inspirent dans ma façon de réfléchir à l’atmosphère, au game
 - Discord: `ton_discord_ici`
 
 ---
+<a id="-english-version"></a>
+# 🇬🇧 English version
 
-# English version
-
-Hi, I’m Alex 👋
+Hi, I’m Oleksii 👋
 
 I’m a computer science student in France, interested in desktop application development and game development.
 
@@ -171,50 +141,6 @@ I enjoy building projects from scratch, understanding how their internal logic w
 
 ---
 
-## 🎮 Main projects
-
-### Visual Novel — personal project
-
-A personal project developed with **Ren’Py**.
-
-I’m responsible for the technical part: code, game logic, scene structure and interactive mechanics.  
-The project is developed with my mentor, who focuses mainly on the story, sound design and music.
-
-**Goal:** create an interactive narrative experience with clean and expandable game logic.
-
----
-
-### Stargate Project — desktop application
-
-A university group project developed in **C#**, using **WinForms** and **SQLite**.
-
-The goal is to create a desktop application for managing missions: dashboard, mission creation, members, objectives, budget, events, races, planets and statistics.
-
-**What this project helps me improve:**
-
-- desktop interface design;
-- SQLite database management;
-- WinForms forms and components;
-- teamwork organization;
-- code readability and interface ergonomics.
-
----
-
-### Inscryption-like Game — Java project
-
-A university group project inspired by **Inscryption**, developed in **Java** with **IntelliJ IDEA**.
-
-The project focuses on creating a card game with a board, deck, player hand, animal cards, attacks, score system, opponent logic and victory conditions.
-
-**What this project helps me improve:**
-
-- object-oriented programming;
-- class architecture;
-- board and battle logic;
-- unit testing;
-- separation between game logic and display.
-
----
 
 ## 🎯 Current goals
 
